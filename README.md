@@ -115,7 +115,7 @@ if __name__ == "__main__":
 ~~~
 
 ## Output:
-![ouput screenshot](XXX.png)
+![ouput screenshot](xxx.png)
 
 
 ## Result:
